@@ -49,6 +49,7 @@ This project uses Jira API Token-based authentication.
 You can generate your API token from your Jira account settings.
 
 🔧 File Descriptions
+
 📄 jira.py
 
 Handles all Jira-related operations such as authentication and API calls for creating, updating, and retrieving tickets.
