@@ -16,12 +16,17 @@ MCP (Model Context Protocol)
 python-dotenv
 
 📂 Project Structure
-├── main.py            # Entry point of MCP server
+
+├── main.py # Entry point of MCP server
+
 ├── jira.py            # Jira API handling logic
+
 ├── requirements.txt   # Project dependencies
+
 ├── .env               # Environment variables (not included)
 
 ⚙️ Setup Instructions
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/jira-mcp-server.git
 cd jira-mcp-server
