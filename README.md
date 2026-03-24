@@ -14,6 +14,7 @@ Python
 Jira REST API
 MCP (Model Context Protocol)
 python-dotenv
+
 📂 Project Structure
 ├── main.py            # Entry point of MCP server
 ├── jira.py            # Jira API handling logic
@@ -63,15 +64,18 @@ Main server file that initializes the MCP server and connects AI tools with Jira
 Contains all required Python libraries for the project.
 
 💡 Use Cases
+
 Automate Jira ticket creation using AI
 Integrate Jira with Claude Desktop or VS Code
 Build AI-powered developer tools
 Streamline bug tracking workflows
+
 🚀 Future Improvements
+
 Add support for Jira comments & attachments
 Implement ticket search & filtering
 Add logging and error handling
 Docker support for easy deployment
-🤝 Contributing
 
+🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
